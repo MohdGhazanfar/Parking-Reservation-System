@@ -1,1 +1,2 @@
 # Parking-Reservation-System
+This is a C++ program that implements a parking reservation system using object-oriented programming (OOP) concepts. The program allows users to reserve parking spots for a specified duration of time and handles all aspects of parking management, including spot availability, allocation, and payment. It also provides real-time updates on parking spot availability and tracks the parking history of each user. The system has been designed with modularity in mind and can be easily extended to accommodate additional features or functionalities.
